@@ -4,7 +4,7 @@ widget = "projects"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Projects"
+title = "开源项目"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -33,12 +33,16 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "微服务"
+  tag = ".微服务"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "服务网格"
+  tag = ".服务网格"
+
+[[filter]]
+  name = "基础类库"
+  tag = ".基础类库"
 
 +++
 

@@ -1,25 +1,31 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2018-01-19"
 
 # Project title.
-title = "External Project"
+title = "Dream Mesh"
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = "Dream Mesh，梦想中的Service Mesh."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "boards.jpg"
+image_preview = "projects/dreammesh.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["demo"]
+tags = ["微服务", "服务网格", "DreamFly", "DreamMesh"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
 
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "headers/dreammesh-wide.jpg"
+caption = "DreamFly.IO :smile:"
+
 +++
 
+Dream Mesh 项目
