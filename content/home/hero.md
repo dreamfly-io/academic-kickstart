@@ -25,10 +25,6 @@ weight = 3
 +++
 
 梦想的Service Mesh，敬请期待 :rocket:
-<br>
-<small><a id="academic-release" href="https://github.com/dreamfly-io/dreammesh/releases">最新发布</a></small>
 <br><br>
-<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=dreamfly-io&amp;repo=dreammesh&amp;type=star&amp;count=true&amp;size=large" scrolling="0" width="160px" height="30px" frameborder="0"></iframe>
-<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=dreamfly-io&amp;repo=dreammesh&amp;type=fork&amp;count=true&amp;size=large" scrolling="0" width="158px" height="30px" frameborder="0"></iframe>
 
 
