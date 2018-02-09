@@ -3,7 +3,7 @@
 date = "2018-01-19"
 
 # Project title.
-title = "Dream Mesh"
+title = "Dream Mesh开源项目"
 
 # Project summary to display on homepage.
 summary = "Dream Mesh，梦想中的Service Mesh."
@@ -13,7 +13,7 @@ image_preview = "projects/dreammesh.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["微服务", "服务网格", "DreamFly", "DreamMesh"]
+tags = ["微服务", "服务网格", "DreamMesh"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -24,8 +24,17 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/dreammesh-wide.jpg"
-caption = "DreamFly.IO :smile:"
+caption = ""
 
 +++
 
-Dream Mesh 项目
+Dream Mesh，梦想的Service Mesh。
+
+项目的Github地址：
+
+https://github.com/dreamfly-io/dreammesh
+
+项目筹备中，正在进行早期调研和讨论，稍后将以开源项目的方式进行。
+
+[请点击这里阅读Dream Mesh相关讨论的博客内容](https://skyao.io/post/)
+
